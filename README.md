@@ -1,5 +1,5 @@
 # 💫 About Me:
-Experienced DevOps Developer with a strong focus on DFIR, Monitoring, Kubernetes, Git, and Atlassian products, currently studying IT‑Security at Leibniz FH Hannover. With a solid background in automating and optimizing IT infrastructures, I excel at integrating advanced security practices<br>into DevOps processes. I seek opportunities that leverage my extensive experience and ongoing education in IT‑Security and system management
+Experienced DevOps Developer with a strong focus on DFIR, Monitoring, Kubernetes, Git, and Atlassian products, currently studying IT‑Security at Leibniz FH Hannover. With a solid background in automating and optimizing IT infrastructures, I excel at integrating advanced security practices into DevOps processes. I seek opportunities that leverage my extensive experience and ongoing education in IT‑Security and system management.
 
 
 ## 🌐 Socials:
